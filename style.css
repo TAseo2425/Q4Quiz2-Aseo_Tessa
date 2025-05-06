@@ -1,0 +1,23 @@
+body{
+	text-align: center;
+	color: #B90B4A;
+	font-family: "Josefin Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+	padding: 30px;
+	background-color: #D6ABB3;
+}
+.container{
+	background-color: #FDCCD3;
+	border-radius: 30px;
+	padding: 35px;
+	margin: auto;
+	width: 70%;
+	margin-top: 80px;
+	border: 2px dotted; #D24D6E;
+}
+img{
+	height: 200px;
+	padding: 3px;
+}
